@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Set konfigurasi halaman aplikasi
-st.set_page_config(page_title="Prediksi Lalu Lintas IoT", layout="centered")
+st.set_page_config(page_title="Prediksi Kondisi Lalu Lintas Menggunakan Algoritma Random Forest", layout="centered")
 st.title("Sistem Prediksi Kondisi Lalu Lintas")
 st.write("Prediksi tingkat kepadatan lalu lintas berdasarkan volume kendaraan")
 
